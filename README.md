@@ -3,8 +3,8 @@
  - 😁 Sou o Wesley Siejka, novato na área de tecnologia buacando sempre aprender mais !!!
 
 ### Certificados:
-- 💻 Análise e desenvolvimento de sistemas CEEP Cianorte (Centro Estadual de Ensino Profisional) 2021 - 2024
-- 💻 ADS (Análise e desenvolvimento de sistemas) UMFG 2025 - 2027
+- 💻 Técnico em Análise e desenvolvimento de sistemas - CEEP Cianorte (Centro Estadual de Educação Profisional) 2021 - 2024
+- 💻 ADS (Análise e desenvolvimento de sistemas) - UMFG 2025 - 2027
 
 ## 📫 Contato:
 <div>
